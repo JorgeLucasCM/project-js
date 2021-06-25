@@ -1,0 +1,60 @@
+.fonte{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.corpo{
+  text-align: center;
+  top: 0;
+  left: 0;
+  height: 99%;
+  width: 99%;
+  background-color: rgb(4, 161, 191);
+}
+
+.corpo button{
+  margin: auto;
+}
+
+.title {
+    color: white;
+  }
+#sub1{
+  color: yellow;
+}
+
+#sub2{
+  color: greenyellow;
+}
+
+#sub3{
+  color: black;
+}
+
+#addButton{
+  margin-left: 5px;
+  font-size: 22px;
+  color: rgb(4, 161, 191);
+  width: 130px;
+  height: 35px;
+  background-color: rgb(2, 95, 112);
+  text-align: center;
+  border-radius: 3px;
+  border: none;
+}
+
+#addButton:hover{
+  background-color: rgb(1, 71, 83);
+}
+
+#addButton:active{
+  box-shadow: 0 3px rgba(0, 0, 0, 0.363);
+  transform: translateY(2px);
+}
+
+#new_task{
+  font-size: 22px;
+  height: 32px;
+  border-radius: 3px;
+  border: none;
+}
